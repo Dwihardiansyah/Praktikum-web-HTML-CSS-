@@ -109,10 +109,10 @@ body {
 .service-box {
     font-size: 14px;
     line-height: 1.6;
-    width: 550px;
+    width: 1000px;
     padding: 14px 20px;
     /* border: solid 1px gray; */
-    margin: 0% 370px;
+    margin: 0% 160px;
     text-align: ;
     background-color: #daa208;
     color: white;
@@ -128,7 +128,7 @@ body {
     font-size: 14px !important;
     border: none;
     background: transparent;
-    color: white;
+    color: rgb(0, 0, 0);
     border: solid 1px white;
     padding: 5px 8px;
     border-radius: 3px;
@@ -139,14 +139,10 @@ body {
 /* Footer */
 .footer-container {
     width: 100%;
-    background-color: #e8e5e0;
+    background-color: #000000;
 }
 
-.footer-body {
-    height: 48px;
-    padding: 35px;
-    margin: auto;
-    width: 80%;
+
 }
 
 .footer-info {
